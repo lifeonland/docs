@@ -6,7 +6,7 @@ module.exports = {
   title: 'Open Sauced',
   tagline: 'The path to your next Open Source contribution',
   url: 'https://docs.opensauced.pizza',
-  baseUrl: '/docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
