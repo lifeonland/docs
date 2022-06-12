@@ -6,7 +6,7 @@ module.exports = {
   title: 'Test Site',
   tagline: 'The path to your next Open Source contribution',
   url: 'https://lifeonland.github.io/',
-  baseUrl: '/docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
