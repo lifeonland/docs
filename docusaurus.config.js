@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Test Site',
   tagline: 'The path to your next Open Source contribution',
-  url: 'https://docs.opensauced.pizza',
+  url: 'https://lifeonland.github.io/',
   baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
