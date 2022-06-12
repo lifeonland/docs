@@ -3,15 +3,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Open Sauced',
+  title: 'Test Site',
   tagline: 'The path to your next Open Source contribution',
   url: 'https://docs.opensauced.pizza',
   baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'open-sauced', // Usually your GitHub org/user name.
-  projectName: 'docs.opensauced.pizza', // Usually your repo name.
+  organizationName: 'lifeonland', // Usually your GitHub org/user name.
+  projectName: 'docs', // Usually your repo name.
   trailingSlash: true,
   themeConfig: {
     algolia: {
